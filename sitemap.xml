@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://wanderearn.com/</loc>
+        <lastmod>2025-02-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://wanderearn.com/travel.html</loc>
+        <lastmod>2025-02-13</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://wanderearn.com/affiliate.html</loc>
+        <lastmod>2025-02-13</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://wanderearn.com/gear.html</loc>
+        <lastmod>2025-02-13</lastmod>
+    </url>
+    <!-- Add more URLs with last modified dates -->
+</urlset>
