@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Sitemap: https://wanderearn.com/sitemap.xml
+
+# Block AI scrapers (optional)
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
